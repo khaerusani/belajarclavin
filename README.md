@@ -1,5 +1,5 @@
 # Prerequisite
-- Java
+- Java 10.0.2 or above
 - Maven
 - Clavin Core
 
